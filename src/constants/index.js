@@ -9,7 +9,7 @@ export const ABOUT_TEXT = `I'm an aspiring backend developer eager to embark on 
 
 export const EXPERIENCES = [
   {
-    year: "2023 - Present",
+    year: "2023-Present",
     role: "Web Developer Intern",
     company: "Byte Uprise",
     description: `During my internship , I have learned ReactJs and created the tasks that are given in which I have created a Portfolio and a Landing Page using ReactJS.`,

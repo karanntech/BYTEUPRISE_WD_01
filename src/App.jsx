@@ -2,6 +2,7 @@ import Herosection from "./components/Herosection"
 import Navbar from "./components/Navbar"
 import AboutMe from "./components/AboutMe"
 import Technologies from "./components/Technologies"
+import Experience from "./components/Experience"
 
 const App = () => {
   return (
@@ -14,6 +15,7 @@ const App = () => {
       <Herosection/>
       <AboutMe/>
       <Technologies/>
+      <Experience/>
       </div>
       
     </div>
