@@ -36,14 +36,14 @@ export const PROJECTS = [
     image: project3,
     description:
       "A personal portfolio website showcasing projects, skills, and contact information.",
-    technologies: ["HTML", "CSS", "React", "Bootstrap"],
+    technologies: ["React", "Tailwind CSS"],
   },
   {
     title: "MetaWorlds",
     image: project4,
     description:
       "A Landing page for a Virtual reality company metaworlds ahowing its workflow and testimonials and plan pricing.",
-    technologies: ["HTML", "CSS", "React.js"],
+    technologies: ["React.js", "Tailwind CSS"],
   },
 ];
 
